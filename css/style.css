@@ -710,13 +710,17 @@ ul.navbar-nav > li.active > a {
 
 /*-- Logo --*/
 .logo img {
-  width: auto;
-  height: 60px;
+  width: 70%;
+  height: 80%;
 }
+/* .d-block .img{ */
+  /* width: 100%; */
+  /* object-fit: contain; */
+/* } */
 
-.header-two .logo img {
-  height: 30px;
-}
+/* .header-two .logo img { */
+  /* height: 40px; */
+/* } */
 
 /* header right */
 .header-right {
